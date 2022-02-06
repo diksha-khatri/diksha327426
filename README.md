@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diksha Khatri 
 - 🌱 I’m currently learning HTML, CSS and JavaScript
-- 📫 How to reach me @diksha_khatri on telegram
+- 📫 How to reach me :- linkedIn :- Diksha Khatri , Discord :-diksha327426#7183 
 
 <!---
 diksha327426/diksha327426 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
